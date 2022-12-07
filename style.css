@@ -1,11 +1,7 @@
 body{
-    background: purple; 
+    background: rgb(0, 0, 0) !important; 
 }
 
-.titan{
-    background: rgb(55, 53, 53) !important;
-}
-
-.bg-light{
+.red{
     background: rgb(197, 20, 20) !important;
 }
