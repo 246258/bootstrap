@@ -1,7 +1,14 @@
 body{
     background: rgb(0, 0, 0) !important; 
+    color: rgb(188, 194, 195) !important;
 }
-
-.red{
-    background: rgb(197, 20, 20) !important;
+/*
+=================================================
+HERO SECTION
+=================================================
+*/
+.hero-section{
+  background-image: url("img/re4\ header\ image\ .jpeg");
+  background-position: center;
+  background-size: cover;
 }
