@@ -4,9 +4,25 @@ body{
 }
 /*
 =================================================
+NAVBAR
+=================================================
+*/
+
+.navbar-brand{
+  font-weight: 500;
+  color: rgb(212, 46, 35);
+}
+
+.nav-link {
+  color: rgb(212, 46, 35);
+}
+
+/*
+=================================================
 HERO SECTION
 =================================================
 */
+
 .hero-section{
   background-image: url("img/re4\ header\ image\ .jpeg");
   background-position: center;
@@ -29,4 +45,8 @@ HERO SECTION
 
 .bg-red{
   color: rgb(212, 46, 35);
+}
+
+.bg-white{
+  color: rgb(188, 194, 195);
 }
